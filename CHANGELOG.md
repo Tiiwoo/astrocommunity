@@ -1,5 +1,18 @@
 # Changelog
 
+## [8.5.0](https://github.com/AstroNvim/astrocommunity/compare/v8.4.0...v8.5.0) (2024-05-19)
+
+
+### Features
+
+* **completion:** add `copilot-cmp` ([#967](https://github.com/AstroNvim/astrocommunity/issues/967)) ([00836c2](https://github.com/AstroNvim/astrocommunity/commit/00836c2e7ec4ea32fbf11742dc23d6eb420c2b7b))
+
+
+### Bug Fixes
+
+* **rust:** Fix rust-analyzer check to clippy ([#973](https://github.com/AstroNvim/astrocommunity/issues/973)) ([c64ad78](https://github.com/AstroNvim/astrocommunity/commit/c64ad78e1253be3c664e0df9868ed433e420e39e))
+* **rust:** preserve loading of rust-analyzer.json ([#977](https://github.com/AstroNvim/astrocommunity/issues/977)) ([33d4209](https://github.com/AstroNvim/astrocommunity/commit/33d420956aeab3f3159ce1fd7ead997f45024a55))
+
 ## [8.4.0](https://github.com/AstroNvim/astrocommunity/compare/v8.3.0...v8.4.0) (2024-05-15)
 
 
